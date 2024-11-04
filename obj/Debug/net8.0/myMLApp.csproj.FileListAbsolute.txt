@@ -1,0 +1,84 @@
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\SentimentModel.mlnet
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\myMLApp.exe
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\myMLApp.deps.json
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\myMLApp.runtimeconfig.json
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\myMLApp.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\myMLApp.pdb
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Microsoft.ML.FastTree.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\bin\Debug\net8.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.csproj.AssemblyReference.cache
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.AssemblyInfoInputs.cache
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.AssemblyInfo.cs
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.csproj.CoreCompileInputs.cache
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.csproj.Up2Date
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\refint\myMLApp.dll
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.pdb
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\myMLApp.genruntimeconfig.cache
+C:\Users\Crocus\source\repos\myMLApp\myMLApp\obj\Debug\net8.0\ref\myMLApp.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\SentimentModel.mlnet
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\myMLApp.exe
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\myMLApp.deps.json
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\myMLApp.runtimeconfig.json
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\myMLApp.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\myMLApp.pdb
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.Core.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.Data.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Microsoft.ML.FastTree.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\System.Numerics.Tensors.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\win-x64\native\FastTreeNative.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\bin\Debug\net8.0\runtimes\win-x86\native\FastTreeNative.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.csproj.AssemblyReference.cache
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.AssemblyInfoInputs.cache
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.AssemblyInfo.cs
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.csproj.CoreCompileInputs.cache
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.csproj.Up2Date
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\refint\myMLApp.dll
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.pdb
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\myMLApp.genruntimeconfig.cache
+E:\Projects\MIUN\Programmering i C#.NET (DT071G)\Moment_4\myMLApp\obj\Debug\net8.0\ref\myMLApp.dll
