@@ -15,25 +15,28 @@ namespace Moment_4
         {
             bool makeEvaluation = true;
 
+            //While-loop for making multiple evaluation in one run 
             while (makeEvaluation)
             {
                 Console.Clear();
                 
                 string input = getUserInput("Make a statement to be evaluated by sentiment:");
-
                 string sentiment = evaluateSentiment(input);
+
                 Console.WriteLine($"Sentiment: {sentiment}");
 
                 makeEvaluation = askToContinue();
             }
         }
 
+        //Fetches user input
         private static string getUserInput(string message)
         {
             Console.WriteLine(message);
             return Console.ReadLine();
         }
-
+        
+        //Evaluates sentiment of user input
         private static string evaluateSentiment(string input)
         {
             var sampleData = new SentimentModel.ModelInput() { Col0 = input };
@@ -43,6 +46,7 @@ namespace Moment_4
             return result.PredictedLabel == 1 ? "Positive" : "Negative";
         }
 
+        //Gives user option to make another evaluation or to exit the application
         private static bool askToContinue()
         {
             while (true)
